@@ -1,6 +1,10 @@
 # Diabetes Prediction
 
-## BUSINESS PROBLEM:
+![Diabetes](https://user-images.githubusercontent.com/82174541/216432199-face2803-3f8f-4d56-af2e-2399376fee07.JPG)
+
+Type II diabetes is one of most comman disease in the world. According to the data of 2021, approximately 537 million adults (20-79 years) are living with diabetes. Expected number of adults with diabetes is predicted to rise to 643 million by 2030 and 783 million by 2045. Genetic most relevant factor in diabetes but life style is also very important. Pregnancy also effects the diabetes and increase the diasease chance. Correct diagnosis is very important on diabetes because diabetes cause some complications such as heart disease, glaucoma, kidney damage, skin and mouth conditions. 
+ 
+ ## BUSINESS PROBLEM:
 
 We want to predict what is the probability of having diabetes above 21 years old females.
 
