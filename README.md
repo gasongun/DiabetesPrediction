@@ -1,6 +1,6 @@
 # Diabetes Prediction
 
-<img src="https://user-images.githubusercontent.com/82174541/216432199-face2803-3f8f-4d56-af2e-2399376fee07.JPG" width=400 height=350px>
+<img src="https://user-images.githubusercontent.com/82174541/216432199-face2803-3f8f-4d56-af2e-2399376fee07.JPG" width=600px height=350px>
 
 
 
