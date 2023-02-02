@@ -17,7 +17,9 @@ We are going to follow the content below in this project:
     c- Feature Extraction
     d- One Hot Encoding
 4- Find the optimum model for estimate will have diabetes.
-    a-  Hyperparameter optimization
+    a-  Random Forest
+    b-  Logistic Regression
+    c-  SMOTE + Logistic Regression
 
 """
 ## Import Data and Libraries
