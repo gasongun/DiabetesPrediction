@@ -56,7 +56,7 @@ def load_dataset(data,pathChange = True):
     return pd.read_csv(path + '/' + data + ".csv")
 
 
-df_ = load_dataset("diabetes",False)     # DSMBLC7-Gülbüke\5.Hafta
+df_ = load_dataset("diabetes",False)     
 df = df_.copy()
 df.head()
 
